@@ -27,12 +27,6 @@ I enjoy exploring new technologies, solving real-world problems, and turning ide
 <img src="https://streak-stats.demolab.com?user=muhammad-bilal-saleem&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
-🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/muhammad-bilal-saleem/muhammad-bilal-saleem/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
 🌐 Let's Connect
 
 <p align="center">
@@ -49,5 +43,5 @@ I enjoy exploring new technologies, solving real-world problems, and turning ide
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+ Thanks for visiting my profile! Feel free to explore my repositories.
 </p>
